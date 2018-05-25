@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         mBank old style
 // @namespace    https://webdudi.pl/
-// @version      0.1
+// @version      0.2
 // @description  Return to the old style of transactional service
 // @author       webdudi.pl
 // @match        https://online.mbank.pl/pl
